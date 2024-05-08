@@ -1,0 +1,66 @@
+,Feature,Importance
+49,property_type_Parking Space,0.854631487039087
+24,city_SF,0.5231500581206144
+16,room_type_Entire home/apt,0.4792201160423637
+32,property_type_Casa particular,0.4303423970456972
+46,property_type_Lighthouse,0.4285223984619093
+53,property_type_Tipi,0.3846347336697111
+45,property_type_Island,0.38205526826696007
+38,property_type_Earth House,0.3755949924199884
+52,property_type_Timeshare,0.2509173637735284
+28,property_type_Boutique hotel,0.20709286600925225
+59,property_type_Yurt,0.20614604089209135
+33,property_type_Castle,0.19437049734208905
+9,bedrooms,0.15044840707372287
+13,hotspot_classification,0.1321753276260989
+1,bathrooms,0.12780887745757868
+55,property_type_Train,0.10419990213185715
+61,bed_type_Couch,0.09853911739935209
+27,property_type_Boat,0.09294292088037304
+57,property_type_Vacation home,0.08235704185164133
+0,accommodates,0.08211839707064968
+58,property_type_Villa,0.07150616518022963
+56,property_type_Treehouse,0.04627189994189281
+22,city_LA,0.04310386098437333
+15,Overall_sentiment,0.02933131889124277
+26,property_type_Bed & Breakfast,0.023433015385468367
+11,Host_Tenure,0.01033986658201791
+7,review_scores_rating,0.005560066535023389
+12,Amenities_Count,0.0034801549277522215
+47,property_type_Loft,0.0014411555763124972
+6,number_of_reviews,-0.0009565427408637084
+8,zipcode,-0.0010045915705983455
+64,bed_type_Real Bed,-0.003932196793630494
+2,cancellation_policy,-0.009884509869372504
+63,bed_type_Pull-out Sofa,-0.011480603841168849
+48,property_type_Other,-0.018427138970760926
+34,property_type_Cave,-0.021548441767190528
+5,instant_bookable,-0.025442880193753244
+36,property_type_Condominium,-0.027129393937451868
+60,bed_type_Airbed,-0.027316725551217426
+10,beds,-0.038794964146728186
+17,room_type_Private room,-0.04796779542157231
+19,city_Boston,-0.05488091201951878
+62,bed_type_Futon,-0.05580959121340828
+50,property_type_Serviced apartment,-0.07376744359796462
+3,cleaning_fee,-0.07385505946749127
+14,Sentiment_score,-0.08130127565834842
+35,property_type_Chalet,-0.08666722175198488
+4,host_response_rate,-0.10067770294369302
+21,city_DC,-0.11156143541829067
+42,property_type_House,-0.117500754826033
+54,property_type_Townhouse,-0.11760502513426341
+29,property_type_Bungalow,-0.14745042404457948
+40,property_type_Guesthouse,-0.1543678114930792
+25,property_type_Apartment,-0.15714491667418282
+30,property_type_Cabin,-0.15827241071798986
+23,city_NYC,-0.18413040467922395
+39,property_type_Guest suite,-0.18827005233409466
+20,city_Chicago,-0.2156811669878479
+31,property_type_Camper/RV,-0.22463179654851556
+44,property_type_In-law,-0.3884270787172502
+51,property_type_Tent,-0.4224921056905091
+18,room_type_Shared room,-0.4312523206197637
+43,property_type_Hut,-0.5172044204593281
+37,property_type_Dorm,-0.5660781234491483
+41,property_type_Hostel,-0.7494755857532803
